@@ -1,0 +1,11 @@
+C:\Users\mi\Desktop\мдк2\PictureViewerZakharova\PictureViewerZakharova\bin\Debug\PictureViewerZakharova.exe.config
+C:\Users\mi\Desktop\мдк2\PictureViewerZakharova\PictureViewerZakharova\bin\Debug\PictureViewerZakharova.exe
+C:\Users\mi\Desktop\мдк2\PictureViewerZakharova\PictureViewerZakharova\bin\Debug\PictureViewerZakharova.pdb
+C:\Users\mi\Desktop\мдк2\PictureViewerZakharova\PictureViewerZakharova\obj\Debug\PictureViewerZakharova.csproj.AssemblyReference.cache
+C:\Users\mi\Desktop\мдк2\PictureViewerZakharova\PictureViewerZakharova\obj\Debug\PictureViewerZakharova.csproj.SuggestedBindingRedirects.cache
+C:\Users\mi\Desktop\мдк2\PictureViewerZakharova\PictureViewerZakharova\obj\Debug\PictureViewerZakharova.Form1.resources
+C:\Users\mi\Desktop\мдк2\PictureViewerZakharova\PictureViewerZakharova\obj\Debug\PictureViewerZakharova.Properties.Resources.resources
+C:\Users\mi\Desktop\мдк2\PictureViewerZakharova\PictureViewerZakharova\obj\Debug\PictureViewerZakharova.csproj.GenerateResource.cache
+C:\Users\mi\Desktop\мдк2\PictureViewerZakharova\PictureViewerZakharova\obj\Debug\PictureViewerZakharova.csproj.CoreCompileInputs.cache
+C:\Users\mi\Desktop\мдк2\PictureViewerZakharova\PictureViewerZakharova\obj\Debug\PictureViewerZakharova.exe
+C:\Users\mi\Desktop\мдк2\PictureViewerZakharova\PictureViewerZakharova\obj\Debug\PictureViewerZakharova.pdb
